@@ -1,0 +1,3 @@
+{"id": "s1", "turns": ["My favourite number is 7. Just reply OK.", "What is 3 + 4? Number only.", "What is my favourite number? Number only."], "attack_turn": 3}
+{"id": "s2", "turns": ["I like cats. Reply OK.", "What is 2 + 2? Number only.", "Which animal do I like? One word."], "attack_turn": 3}
+{"id": "s3", "turns": ["Hi! Reply OK.", "What colour is the sky? One word.", "What is 5 + 5? Number only."], "attack_turn": 2}
